@@ -3,7 +3,7 @@
   justify-content: space-between;
   padding: 92px 50px 96px;
   grid-template-columns: 1fr min-content 1fr;
-  align-items:center
+  align-items:center;
 }
 
 .header__link {
